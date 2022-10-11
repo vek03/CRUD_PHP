@@ -9,6 +9,7 @@ Ajustes e adições:
 - Melhora de front-end e no entendimento do usuário
 <br>
 Ações:
+<br>
 - INSERT
 - SELECT
 - UPDATE
