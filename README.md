@@ -1,5 +1,5 @@
 # ProjetoWeb
-5° e última versão do site, aqui é possível inserir registros, visualizá-los, editá-los e excluí-los, o CRUD completo.
+5° e última versão do site, aqui é possível inserir registros, visualizá-los, editá-los e excluí-los através dos botões "Editar" e "Excluir" na aba "Consultas", o CRUD completo.
 <br>
 Ajustes e adições:
 - Correção de bugs
