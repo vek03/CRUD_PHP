@@ -7,9 +7,9 @@ Ajustes e adições:
 - Função de exibição de senha para que o usuário possa conferir
 - Função de endereço automático através do CEP
 - Melhora de front-end e no entendimento do usuário
-<br>
+
 Ações:
-<br>
+
 - INSERT
 - SELECT
 - UPDATE
