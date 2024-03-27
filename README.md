@@ -1,6 +1,6 @@
 # ProjetoWeb
 5° e última versão do site, aqui é possível inserir registros, visualizá-los, editá-los e excluí-los através dos botões "Editar" e "Excluir" na aba "Consultas", o CRUD completo.
-<br>
+<br><br>
 <br>
 Obs: Importe o arquivo do banco "cadastro.sql" que está dentro da pasta "bd" no seu phpMyAdmin. 
 <br>
